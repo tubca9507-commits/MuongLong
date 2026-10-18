@@ -1,4 +1,4 @@
-
+/* ===== THIẾT LẬP CHUNG ===== */
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ body {
     line-height: 1.6;
 }
 
-
+/* ===== THANH MENU ===== */
 .navbar {
     background-color: #0d6efd !important;
     padding: 12px 0;
@@ -42,7 +42,7 @@ body {
     font-weight: bold;
 }
 
-
+/* ===== ẢNH NỀN TRANG CHỦ ===== */
 .hero-section {
     min-height: 480px;
     background:
@@ -50,7 +50,7 @@ body {
             rgba(0,0,0,0.25),
             rgba(0,0,0,0.35)
         ),
-        url("Ảnh \\Ml.jpg");
+        url("Ảnh Ml.jpg");
 
     background-size: cover;
     background-position: center;
